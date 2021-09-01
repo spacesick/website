@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    background: aqua;
+    color: white;
+    display: flex;
+    align-items: center;
+}
