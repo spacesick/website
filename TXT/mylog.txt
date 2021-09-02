@@ -5,3 +5,4 @@ ZCZC W00 100 L02 Attended my first OS meeting
 ZCZC W00 540 L04 Set my very first running website
 ZCZC W00  10 L00 Created my log
 ZCZC W00   5 L01 Filled out the OS212 Google form
+ZCZC W00 100 L02 Attended my second OS meeting
