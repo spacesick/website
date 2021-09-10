@@ -9,3 +9,5 @@ ZCZC W00 100 L02 Attended my second OS meeting
 ZCZC W01   5 L05 Finished my first OS quiz
 ZCZC W01 100 L02 Attended my third OS meeting
 ZCZC W01  70 L32 Watched some videos about Operating Systems and Virtual Machines in general
+ZCZC W01 100 L02 Attended my fourth OS meeting
+ZCZC W01  55 L06 Read further about grep regex
