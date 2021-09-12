@@ -19,3 +19,4 @@ ZCZC W01   5 L28 Generated my SSH key
 ZCZC W01   5 L03 Set up my SSH key on my Github account
 ZCZC W01 100 L24 Finished setting up my final OVA file
 ZCZC W01 150 L26 Tried to code a binary tree in C using vi
+ZCZC W01 120 L04 Finished setting up the markdown files for my website 

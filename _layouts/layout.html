@@ -85,7 +85,7 @@ a.nav-link:hover, a.nav-link:active {
 
 #content {
     font-family: 'Open Sans', 'Helvetica', sans-serif;
-    padding-top: 3rem;
+    padding-top: 2rem;
     padding-left: 0.52rem;
     font-size: 80%
 }
@@ -93,16 +93,29 @@ a.nav-link:hover, a.nav-link:active {
 </style>
 
 <body>
+    <!-- Header -->
+    <div class="header">
+        <div class="left-container">
+            <img src="{{ site.baseurl }}/assets/images/thinking.jpg" alt="Me">
+        </div>
+        <div class="right-container">
+            <div id="header-text" class="Grid-cell u-size7of8">
+                <h1 class="large-title">Vincent Yovian</h1>
+                <h1 class="subheading">Operating Systems 2021-2 (OS212)</h1>
+            </div>
+        </div>
+    </div>
+
     <nav>
         <ul class="nav-list">
             <li class="nav-list-item">
-                <a class="nav-link" href="../">Home</a>
+                <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
             </li>
             <li class="nav-list-item">
-                <a class="nav-link" href="./">Links</a>
+                <a class="nav-link" href="{{ site.baseurl }}/LINKS/">Links</a>
             </li>
             <li class="nav-list-item">
-                <a class="nav-link" href="../txt/mylog.txt">Log</a>
+                <a class="nav-link" href="{{ site.baseurl }}/TXT/mylog.txt">Log</a>
             </li>
             <li class="nav-list-item">
                 <a class="nav-link" href="https://github.com/Spacesick/os212/">Github</a>
@@ -111,7 +124,7 @@ a.nav-link:hover, a.nav-link:active {
     </nav>
 
     <div id="content">
-        Blank.
+        {{ content }}
     </div>
 </body>
 </html>
