@@ -23,3 +23,4 @@ ZCZC W01 120 L04 Finished setting up the markdown files for my website
 ZCZC W01 250 L24 Took a deep dive and learnt about grep, awk, sed, and regex in general, and their uses
 ZCZC W02  20 L05 Finished my second OS quiz  
 ZCZC W02  15 L32 Studied further about sed
+ZCZC W02  30 L04 Updated my links list
