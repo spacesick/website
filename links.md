@@ -26,3 +26,11 @@ Test if your regular expressions work on a specified text and see how other peop
 Another equivalent to RegExr.
 Visualize how regular expressions work its magic, character by character.
 Perfect tool for absolute beginners.
+
+6. [Recommended Coding Standard for C Programs](https://www.doc.ic.ac.uk/lab/cplus/cstyle.html)<br>
+A simple document on recommended C programming style standards by AT&T's Indian Hill labs.
+If you're new to C, this is an excellent page to get you acquainted with C programming conventions.
+It will undoubtedly help your C code be more readable and maintainable.
+
+7. [LearnCPP](https://www.learncpp.com/)<br>
+C++ is a similar programming language to C, however both does have major differences. Most notably, C++ supports Object-Oriented Programming, while C does not. Still, I recommend this website to anyone learning C-style programming languages.
