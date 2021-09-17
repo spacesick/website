@@ -24,3 +24,9 @@ ZCZC W01 250 L24 Took a deep dive and learnt about grep, awk, sed, and regex in 
 ZCZC W02  20 L05 Finished my second OS quiz  
 ZCZC W02  15 L32 Studied further about sed
 ZCZC W02  30 L04 Updated my links list
+ZCZC W02 100 L02 Attended my fifth OS meeting
+ZCZC W02 270 L32 Studied cyber security
+ZCZC W02 200 L70 Learnt a lot about machine learning for some reason
+ZCZC W02 100 L02 Attended my sixth OS meeting
+ZCZC W02  30 L27 Created my GnuPG key pair
+ZCZC W02 220 L26 Practiced C programming
