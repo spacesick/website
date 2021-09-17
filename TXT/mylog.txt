@@ -31,3 +31,4 @@ ZCZC W02 100 L02 Attended my sixth OS meeting
 ZCZC W02  30 L27 Created my GnuPG key pair
 ZCZC W02 220 L26 Practiced C programming
 ZCZC W02  30 L04 Updated my links list
+ZCZC W02  30 L04 Ranked ten other students' links
