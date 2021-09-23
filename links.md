@@ -35,11 +35,14 @@ It will undoubtedly help your C code be more readable and maintainable.
 7. [LearnCPP](https://www.learncpp.com/)<br>
 C++ is a similar programming language to C, however both does have major differences. Most notably, C++ supports Object-Oriented Programming, while C does not. Still, I recommend this website to anyone learning C-style programming languages.
 
-8. [Openvim](https://www.openvim.com/tutorial.html)<br>
+8. [Devhints](https://devhints.io/) -|- [Cheatography](https://cheatography.com/programming/) -|- [Quickref](https://quickref.me/) -|- [C Guide](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf)<br>
+A compilation of programming cheatsheets made by different people, ranging from IDEs, programming languages, to programming frameworks, and more. Use it generously to get a quick reference or to remind yourself about the murky details.
+
+9. [Openvim](https://www.openvim.com/tutorial.html)<br>
 An interactive approach to learning vim, an improved version of vi. If you're still struggling at using vi as a text editor, this website will help you get a good grasp of it quickly.
 
-9. [Learnshell](https://www.learnshell.org/)<br>
-Learn almost everything about the UNIX shell here. This website will teach you from the very basics until you're able to script for yourself. It should take you no time.
+10. [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)<br>
+Immerse yourself in the world of cryptography. This article by Gary C. Kessler will introduce you to the field of cryptography, right from the very basic concepts to the algorithms people utilize for their security.
 
-10. [Devhints](https://devhints.io/) -|- [Cheatography](https://cheatography.com/programming/) -|- [Quickref](https://quickref.me/ )<br>
-A compilation of programming cheatsheets made by different people, ranging from IDEs, programming languages, to programming frameworks, and more. Use it generously to get a quick reference or to remind yourself about the murky details.
+11. [Learnshell](https://www.learnshell.org/)<br>
+Learn almost everything about the UNIX shell here. This website will teach you from the very basics until you're able to script for yourself. It should take you no time.
