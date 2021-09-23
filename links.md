@@ -34,3 +34,12 @@ It will undoubtedly help your C code be more readable and maintainable.
 
 7. [LearnCPP](https://www.learncpp.com/)<br>
 C++ is a similar programming language to C, however both does have major differences. Most notably, C++ supports Object-Oriented Programming, while C does not. Still, I recommend this website to anyone learning C-style programming languages.
+
+8. [Openvim](https://www.openvim.com/tutorial.html)<br>
+An interactive approach to learning vim, an improved version of vi. If you're still struggling at using vi as a text editor, this website will help you get a good grasp of it quickly.
+
+9. [Learnshell](https://www.learnshell.org/)<br>
+Learn almost everything about the UNIX shell here. This website will teach you from the very basics until you're able to script for yourself. It should take you no time.
+
+10. [Devhints](https://devhints.io/) [Cheatography](https://cheatography.com/programming/) [Quickref](https://quickref.me/ )<br>
+A compilation of programming cheatsheets made by different people, ranging from IDEs, programming languages, to programming frameworks, and more. Use it generously to get a quick reference or to remind yourself about the murky details.
