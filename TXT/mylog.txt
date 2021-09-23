@@ -46,3 +46,4 @@ ZCZC W03   5 L27 Decrypted my tar file for the first time
 ZCZC W03 300 L26 Practiced C programming
 ZCZC W03  60 L04 Updated my links list and ranked ten other students' links
 ZCZC W03   5 L13 Completed assignment 3
+ZCZC W03  40 L06 Studied file access control
