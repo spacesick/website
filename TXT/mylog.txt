@@ -32,3 +32,12 @@ ZCZC W02  30 L27 Created my GnuPG key pair
 ZCZC W02 220 L26 Practiced C programming
 ZCZC W02  30 L04 Updated my links list
 ZCZC W02  30 L04 Ranked ten other students' links
+ZCZC W03  15 L05 Finished my third OS quiz  
+ZCZC W03 420 L26 Practiced C programming
+ZCZC W03 100 L02 Attended my seventh OS meeting
+ZCZC W03 160 L06 Studied several file allocation methods, namely linked list, contiguous, indexed, and combined scheme allocation
+ZCZC W03 140 L06 Studied how to configure my filesystems
+ZCZC W03 200 L05 Practiced previous midtem problems
+ZCZC W03 100 L02 Attended my eighth OS meeting
+ZCZC W03   5 L27 Decrypted my tar file for the first time
+ZCZC W03 300 L26 Practiced C programming
