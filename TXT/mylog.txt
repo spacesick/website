@@ -41,3 +41,4 @@ ZCZC W03 200 L05 Practiced previous midtem problems
 ZCZC W03 100 L02 Attended my eighth OS meeting
 ZCZC W03   5 L27 Decrypted my tar file for the first time
 ZCZC W03 300 L26 Practiced C programming
+ZCZC W03  60 L04 Updated my links list and ranked ten other students' links
