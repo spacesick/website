@@ -41,5 +41,5 @@ An interactive approach to learning vim, an improved version of vi. If you're st
 9. [Learnshell](https://www.learnshell.org/)<br>
 Learn almost everything about the UNIX shell here. This website will teach you from the very basics until you're able to script for yourself. It should take you no time.
 
-10. [Devhints](https://devhints.io/) [Cheatography](https://cheatography.com/programming/) [Quickref](https://quickref.me/ )<br>
+10. [Devhints](https://devhints.io/) -|- [Cheatography](https://cheatography.com/programming/) -|- [Quickref](https://quickref.me/ )<br>
 A compilation of programming cheatsheets made by different people, ranging from IDEs, programming languages, to programming frameworks, and more. Use it generously to get a quick reference or to remind yourself about the murky details.
