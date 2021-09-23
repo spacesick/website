@@ -6,6 +6,7 @@ ZCZC W00 540 L04 Set my very first running website
 ZCZC W00  10 L00 Created my log
 ZCZC W00   5 L01 Filled out the OS212 Google form
 ZCZC W00 100 L02 Attended my second OS meeting
+ZCZC W00   5 L10 Completed assignment 0
 ZCZC W01   5 L05 Finished my first OS quiz
 ZCZC W01 100 L02 Attended my third OS meeting
 ZCZC W01  70 L32 Watched some videos about Operating Systems and Virtual Machines in general
@@ -21,6 +22,7 @@ ZCZC W01 100 L24 Finished setting up my final OVA file
 ZCZC W01 150 L26 Tried to code a binary tree in C using vi
 ZCZC W01 120 L04 Finished setting up the markdown files for my website
 ZCZC W01 250 L24 Took a deep dive and learnt about grep, awk, sed, and regex in general, and their uses
+ZCZC W01   5 L11 Completed assignment 1
 ZCZC W02  20 L05 Finished my second OS quiz  
 ZCZC W02  15 L32 Studied further about sed
 ZCZC W02  30 L04 Updated my links list
@@ -32,6 +34,7 @@ ZCZC W02  30 L27 Created my GnuPG key pair
 ZCZC W02 220 L26 Practiced C programming
 ZCZC W02  30 L04 Updated my links list
 ZCZC W02  30 L04 Ranked ten other students' links
+ZCZC W02   5 L12 Completed assignment 2
 ZCZC W03  15 L05 Finished my third OS quiz  
 ZCZC W03 420 L26 Practiced C programming
 ZCZC W03 100 L02 Attended my seventh OS meeting
@@ -42,3 +45,4 @@ ZCZC W03 100 L02 Attended my eighth OS meeting
 ZCZC W03   5 L27 Decrypted my tar file for the first time
 ZCZC W03 300 L26 Practiced C programming
 ZCZC W03  60 L04 Updated my links list and ranked ten other students' links
+ZCZC W03   5 L13 Completed assignment 3
