@@ -47,3 +47,8 @@ ZCZC W03 300 L26 Practiced C programming
 ZCZC W03  60 L04 Updated my links list and ranked ten other students' links
 ZCZC W03   5 L13 Completed assignment 3
 ZCZC W03  40 L06 Studied file access control
+ZCZC W04  20 L05 Finished my fourth OS quiz 
+ZCZC W04 100 L02 Attended my ninth OS meeting
+ZCZC W04 300 L06 Reviewed C pointers, variable scopes, and structs
+ZCZC W04 210 L05 Studied past exam problems extensively
+ZCZC W04 100 L02 Attended my tenth OS meeting
