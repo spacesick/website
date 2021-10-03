@@ -46,3 +46,6 @@ Immerse yourself in the world of cryptography. This article by Gary C. Kessler w
 
 11. [Learnshell](https://www.learnshell.org/)<br>
 Learn almost everything about the UNIX shell here. This website will teach you from the very basics until you're able to script for yourself. It should take you no time.
+
+12. [IntroToC](https://eleceng.dit.ie/frank/IntroToC/)<br>
+A nice small summmary of all the basics in C. It also has a handful of very useful diagrams that can help you understand the basic concepts. A great website if you need to get up to speed about C.
