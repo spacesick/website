@@ -55,3 +55,6 @@ This is an open-source ebook about using the command-line shell to process data.
 
 14. [More Operating System Basics](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics)<br>
 We are nearing the mid-point of this semester and perhaps you wanted to study more before the dreaded midterm exam. This here is a different resource on operating systems that you should read aside from the Silberschatz book.
+
+15. [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)<br>
+Great document by Nick Parlante about pointers and memory management basics in C. It will provide you with a concrete understanding on how pointers and memory work in general. It also has links to other useful resources in it.
