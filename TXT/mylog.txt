@@ -55,3 +55,12 @@ ZCZC W04 100 L02 Attended my tenth OS meeting
 ZCZC W04 200 L26 Practiced C programming
 ZCZC W04  60 L04 Updated my links list and ranked ten other students' links
 ZCZC W04   5 L14 Completed assignment 4
+ZCZC W05  20 L05 Finished my fifth OS quiz
+ZCZC W05 100 L02 Attended my eleventh OS meeting
+ZCZC W05 360 L06 Read Silberschatz presentation slides on memory management
+ZCZC W05  60 L25 Tried scripting with regex
+ZCZC W05 100 L01 Answered some forum questions in SCeLE
+ZCZC W05 100 L02 Attended my twelfth OS meeting
+ZCZC W05 200 L06 Preparing for the midterm exam
+ZCZC W05  60 L04 Updated my links list and ranked ten other students' links
+ZCZC W05   5 L15 Completed assignment 5
