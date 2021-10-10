@@ -52,3 +52,6 @@ A nice small summmary of all the basics in C. It also has a handful of very usef
 
 13. [Data Science at the Command Line](https://www.datascienceatthecommandline.com/2e/)<br>
 This is an open-source ebook about using the command-line shell to process data. It describes detailed use cases for command-line tools such as grep, awk, sed, and more. There's also a lot of regex and scripting involved in the ebook. Furthermore, this ebook is currently still in development (as of writing this) and [you can be a part of it](https://github.com/jeroenjanssens/data-science-at-the-command-line). The book itself is scheduled to be published this month! (October 2021)
+
+14. [More Operating System Basics](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics)<br>
+We are nearing the mid-point of this semester and perhaps you wanted to study more before the dreaded midterm exam. This here is a different resource on operating systems that you should read aside from the Silberschatz book.
