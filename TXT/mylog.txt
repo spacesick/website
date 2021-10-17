@@ -64,3 +64,12 @@ ZCZC W05 100 L02 Attended my twelfth OS meeting
 ZCZC W05 200 L06 Preparing for the midterm exam
 ZCZC W05  60 L04 Updated my links list and ranked ten other students' links
 ZCZC W05   5 L15 Completed assignment 5
+ZCZC W06  20 L05 Finished my sixth OS quiz
+ZCZC W06 100 L02 Attended my thirteenth OS meeting
+ZCZC W06 190 L25 Tried scripting with regex
+ZCZC W06 360 L06 Studied more about process control system calls
+ZCZC W06 100 L02 Attended my fourteenth OS meeting
+ZCZC W06 210 L06 Read Silberschatz presentation slides on threads and concurrency
+ZCZC W06  60 L04 Updated my links list and ranked ten other students' links
+ZCZC W06  10 L99 Realised there is no midterm exam
+ZCZC W05   5 L16 Completed assignment 6
