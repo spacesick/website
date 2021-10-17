@@ -72,4 +72,4 @@ ZCZC W06 100 L02 Attended my fourteenth OS meeting
 ZCZC W06 210 L06 Read Silberschatz presentation slides on threads and concurrency
 ZCZC W06  60 L04 Updated my links list and ranked ten other students' links
 ZCZC W06  10 L99 Realised there is no midterm exam
-ZCZC W05   5 L16 Completed assignment 6
+ZCZC W06   5 L16 Completed assignment 6
