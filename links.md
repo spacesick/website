@@ -62,5 +62,5 @@ Great document by Nick Parlante about pointers and memory management basics in C
 16. [Processes, Address Spaces, and Memory Management](https://people.cs.pitt.edu/~aus/cs449/ts-lecture12.pdf)<br>
 This is another brilliant learning material on memory management. It summarizes a lot you need to know about paging, memory allocation, address spaces, and virtual memory.
 
-16. [Process Control](https://www.cs.uregina.ca/Links/class-info/330/Fork/fork.html#fork)<br>
+17. [Process Control](https://www.cs.uregina.ca/Links/class-info/330/Fork/fork.html#fork)<br>
 Here is an impressive summary about system calls for process control like fork(), wait(), getpid(), etc. It shows what these system calls do on a UNIX-based shell and how to use them appropriately.
