@@ -64,3 +64,9 @@ This is another brilliant learning material on memory management. It summarizes 
 
 17. [Process Control](https://www.cs.uregina.ca/Links/class-info/330/Fork/fork.html#fork)<br>
 Here is an impressive summary about system calls for process control like fork(), wait(), getpid(), etc. It shows what these system calls do on a UNIX-based shell and how to use them appropriately.
+
+18. [Process Sync A](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/synchro/synchro.html)<br>
+This page covers the challenges of process synchronization, the two main solutions to critical section problems: Peterson's solution and Dijkstra's semaphore, and the conditions for a system deadlock to occur. In addition, it also shows algorithms that can prevent system deadlocks. This one is great to refer to from time to time.
+
+19. [Process Sync B](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_Synchronization.html)<br>
+This page is similar to the above, but it goes more in-depth about the three classical problems one would encounter in process synchronization, that is The Bounded-Buffer Problem, The Readers-Writers Problem, and The Dining-Philosophers Problem. It also covers in detail another technique to solving critical section problems: Monitors. This page is useful if you want to take a deeper look into actual examples in process synchronization.
