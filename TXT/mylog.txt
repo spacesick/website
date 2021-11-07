@@ -73,3 +73,11 @@ ZCZC W06 210 L06 Read Silberschatz presentation slides on threads and concurrenc
 ZCZC W06  60 L04 Updated my links list and ranked ten other students' links
 ZCZC W06  10 L99 Realised there is no midterm exam
 ZCZC W06   5 L16 Completed assignment 6
+ZCZC W07  20 L05 Finished my seventh OS quiz
+ZCZC W07 120 L01 Answered some forum questions in SCeLE
+ZCZC W07 100 L02 Attended my fifteenth OS meeting
+ZCZC W07 390 L06 Learnt more about the three classic process synchronization problems and their common solutions
+ZCZC W07 100 L02 Attended my sixteenth OS meeting
+ZCZC W07 270 L06 Read more about Peterson's solution and Dijkstra's semaphore
+ZCZC W07  60 L04 Updated my links list and ranked ten other students' links
+ZCZC W07   5 L17 Completed assignment 7
