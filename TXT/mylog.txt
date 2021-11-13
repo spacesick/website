@@ -81,3 +81,13 @@ ZCZC W07 100 L02 Attended my sixteenth OS meeting
 ZCZC W07 270 L06 Read more about Peterson's solution and Dijkstra's semaphore
 ZCZC W07  60 L04 Updated my links list and ranked ten other students' links
 ZCZC W07   5 L17 Completed assignment 7
+ZCZC W08  20 L05 Finished my eighth OS quiz
+ZCZC W08 360 L26 Learnt more about shared memory in C
+ZCZC W08 100 L02 Attended my seventeenth OS meeting
+ZCZC W08 150 L06 Read the Linux from Scratch book
+ZCZC W08 100 L02 Attended my eighteenth OS meeting
+ZCZC W08 120 L01 Answered some forum questions in SCeLE
+ZCZC W08 300 L06 Read the Linux from Scratch book further
+ZCZC W08 120 L31 Compiled the LFS cross-toolchain
+ZCZC W08  60 L04 Updated my links list and ranked ten other students' links
+ZCZC W08   5 L18 Completed assignment 8

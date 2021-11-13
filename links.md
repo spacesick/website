@@ -70,3 +70,6 @@ This page covers the challenges of process synchronization, the two main solutio
 
 19. [Process Sync B](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_Synchronization.html)<br>
 This page is similar to the above, but it goes more in-depth about the three classical problems one would encounter in process synchronization, that is The Bounded-Buffer Problem, The Readers-Writers Problem, and The Dining-Philosophers Problem. It also covers in detail another technique to solving critical section problems: Monitors. This page is useful if you want to take a deeper look into actual examples in process synchronization.
+
+20. [Linux Overview](https://cvw.cac.cornell.edu/Linux/)<br>
+Useful information on Linux to help you with your workflow. It covers all of the basic command on the Linux shell, how to manipulate files, how to connect to remote servers and transfer files, and more. Great starting point if you want to start using Linux.
