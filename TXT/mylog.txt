@@ -91,3 +91,12 @@ ZCZC W08 300 L06 Read the Linux from Scratch book further
 ZCZC W08 120 L31 Compiled the LFS cross-toolchain
 ZCZC W08  60 L04 Updated my links list and ranked ten other students' links
 ZCZC W08   5 L18 Completed assignment 8
+ZCZC W09  20 L05 Finished my ninth OS quiz
+ZCZC W09 120 L01 Answered some forum questions in SCeLE
+ZCZC W09 100 L02 Attended my nineteenth OS meeting
+ZCZC W09 240 L06 Read the Linux from Scratch book further
+ZCZC W09 100 L02 Attended my twentieth OS meeting
+ZCZC W06 180 L06 Studied about the structure of hard disk drives as a secondary storage device
+ZCZC W09 510 L31 Cross compiled the LFS temporary tools and built additional temporary tools
+ZCZC W09  60 L04 Updated my links list and ranked ten other students' links
+ZCZC W09   5 L19 Completed assignment 9

@@ -73,3 +73,6 @@ This page is similar to the above, but it goes more in-depth about the three cla
 
 20. [Linux Overview](https://cvw.cac.cornell.edu/Linux/)<br>
 Useful information on Linux to help you with your workflow. It covers all of the basic command on the Linux shell, how to manipulate files, how to connect to remote servers and transfer files, and more. Great starting point if you want to start using Linux.
+
+21. [LinuxQuestions](https://www.linuxquestions.org/questions/linux-from-scratch-13/)<br>
+If you're having any trouble this week building Linux from scratch, there is a whole forum dedicated to discussing LFS. So go ahead and ask questions there or see if there's already a solution to the problems you might've encountered along the way.
