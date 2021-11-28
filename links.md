@@ -83,5 +83,5 @@ This website is a great way to learn basic computer security concepts in the UNI
 23. [File Descriptors and File Pointers](https://newbedev.com/what-s-the-difference-between-a-file-descriptor-and-file-pointer)<br>
 Just a website I refer to occasionally to remind myself the difference between file descriptors and file pointers. Remember, the file descriptors for stdin is 0, stdout 1, and stderr 2, as defined by POSIX!
 
-24. [IO 1]() -|- [IO 2]() -|- [IO 3]()<br>
+24. [IO 1](https://m1-mosig-os.gitlab.io/lectures/lecture_0--Unix_IO.pdf) -|- [IO 2](http://www.cse.chalmers.se/edu/year/2012/course/EDA092/SLIDES/11-IO-systems.pdf) -|- [IO 3](http://www.cs.columbia.edu/~jae/4118/L03-file-io.html)<br>
 Very very useful summaries of UNIX I/O systems, including common file operations, standard streams, and everything else related! I recommend reading these after finishing Silberschatz's I/O chapter as a supplementary.
