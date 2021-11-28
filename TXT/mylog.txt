@@ -100,3 +100,12 @@ ZCZC W06 180 L06 Studied about the structure of hard disk drives as a secondary 
 ZCZC W09 510 L31 Cross compiled the LFS temporary tools and built additional temporary tools
 ZCZC W09  60 L04 Updated my links list and ranked ten other students' links
 ZCZC W09   5 L19 Completed assignment 9
+ZCZC W10  20 L05 Finished my tenth OS quiz
+ZCZC W10 100 L02 Attended my twenty-first OS meeting
+ZCZC W10 100 L02 Attended my twenty-second OS meeting
+ZCZC W10 210 L26 Studied more about file descriptors and file pointers in C
+ZCZC W10 270 L26 Studied more about client server interaction in C
+ZCZC W10 360 L06 Read the Linux from Scratch book further
+ZCZC W10 540 L31 Installed basic system software for my LFS
+ZCZC W10  60 L04 Updated my links list and ranked ten other students' links
+ZCZC W10   5 L20 Completed assignment 10
