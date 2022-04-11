@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Proto</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-slate-900">
+    <div class="grid text-white w-auto h-screen m-auto grid-flow-row auto-rows-max flex justify-center content-between">
+        <div class="bg-gray-800 text-lg font-semibold px-10 py-4 flex justify-between rounded-b-2xl">
+            <div id="lives">
+                Lives: 5
+            </div>
+            <div id="score">
+                Score: 0
+            </div>
+        </div>
+        <canvas id="gl-canvas" width="640" height="640" oncontextmenu="return false;"> </canvas>
+        <div class="bg-gray-800 px-10 py-4 flex justify-center rounded-t-2xl">
+            <button id="reset" class="bg-gray-200 text-gray-900 px-4 py-2 rounded-full text-base font-semibold">Reset Game</button>
+        </div>
+    </div>
+    <script id="vertex-shader" type="x-shader/x-vertex">
+    #version 300 es
+
+    // Input vertex
+    in vec2 aPos;
+    in vec4 aCol;
+
+    // Output fragment
+    out vec4 vCol;
+
+    // The resolution of the viewport
+    uniform vec2 uResolution;
+
+    // The view offset
+    uniform vec2 uViewOffs;
+    // The model position
+    uniform vec2 uModelPos;
+    // The model angle
+    uniform float uModelAng;
+    // The model scale
+    uniform float uModelScale;
+
+    // Scale transformation matrix
+    mat4 scale(float scale) {
+        return mat4(
+            scale,  0.0,    0.0,    0.0,
+            0.0,    scale,  0.0,    0.0,
+            0.0,    0.0,    1.0,    0.0,
+            0.0,    0.0,    0.0,    1.0
+        );
+    }
+
+    // Rotation transformation matrix
+    mat4 rotate(float angle) {
+        float c = cos(angle);
+        float s = sin(angle);
+        return mat4(
+            c,      s,      0.0,    0.0,
+            -s,     c,      0.0,    0.0,
+            0.0,    0.0,    1.0,    0.0,
+            0.0,    0.0,    0.0,    1.0
+        );
+    }
+
+    // Generates a parallel projection matrix with a magnifying effect on the edges of the screen.
+    // res determines the final resolution.
+    // offs detemines the magnifying effect.
+    mat4 project(vec2 res, vec2 offs) {
+        return mat4(
+            2.0 / res.x,   0.0,            0.0,        -offs.x / (res.x * res.x),
+            0.0,            2.0 / res.y,   0.0,        -offs.y / (res.y * res.y),
+            0.0,            0.0,            0.0,        0.0,
+            0.0,            0.0,            0.0,        1.0
+        );
+    }
+
+    void main() {
+        // Pass the color to the fragment shader
+        vCol = aCol;
+        // The input aPos is first scaled and rotated, then translated according to its model position and view offset, then finally projected with the right resolution and some effects.
+        gl_Position = project(uResolution, uModelPos - uViewOffs) * ((rotate(uModelAng) * scale(uModelScale) * vec4(aPos, 0.0, 1.0)) + vec4(uModelPos, 0.0, 0.0) - vec4(uViewOffs, 0.0, 0.0));
+    }
+    </script>
+
+    <script id="fragment-shader" type="x-shader/x-fragment">
+    #version 300 es
+
+    precision mediump float;
+
+    // Input fragment
+    in vec4 vCol;
+
+    // Output pixel color
+    out vec4 fCol;
+
+    // The model color
+    uniform vec4 uModelCol;
+
+    void main() {
+        fCol = vCol + uModelCol;
+    }
+    </script>
+
+    <script src="initShaders.js"></script>
+    <script src="MVnew.js"></script>
+    <script src="view.js"></script>
+    <script src="game.js"></script>
+    <script src="world.js"></script>
+    <script src="inputhandler.js"></script>
+    <script src="model.js"></script>
+    <script src="model_player.js"></script>
+    <script src="model_asteroid.js"></script>
+    <script src="model_projectile.js"></script>
+    <script src="entity.js"></script>
+    <script src="entity_player.js"></script>
+    <script src="entity_asteroid.js"></script>
+    <script src="entity_projectile.js"></script>
+    <script src="particle.js"></script>
+    <script src="main.js"></script>
+
+</body>
+
+</html>
